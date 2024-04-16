@@ -1,0 +1,160 @@
+.Hospital-container{
+    height: 100vh;
+    width: 100%;
+    /* background-color: firebrick; */
+    display: flex;
+    
+}
+.HospitalsPage-container{
+    display: flex;
+    /* flex-direction: column; */
+}
+.homenav{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.hospital-search-box{
+    /* background-color: #bf2828; */
+    flex: 75%;
+    /* height: 100%;
+    width: 100%; */
+}
+
+
+.hospital-filters{
+    /* background-color: pink; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.form-label{
+    font-size:22px;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    color: #52b3ab;
+    font-weight: 600;
+}
+
+.input-select{
+    font-size: 20px;
+    border-radius:30px;
+    /* border: none; */
+    /* outline: 0px;     */
+    width: 50%;
+    padding: 15px 10px;
+    color: #52b3ab;
+    background-color:white;
+    border: 2px solid #52b3ab#52b3ab;
+    /* outline: none; */
+    transition: 0.2s all;
+
+}
+
+.input-select:hover,.input-select:focus,.input-select:active{
+    background-color: #52b3ab;
+    color: white;
+}
+
+.hospital-btn{
+    font-size: 25px;
+    padding: 10px 30px;
+    background-color:white;
+    border:2px solid #52b3ab;
+    color: #52b3ab;
+    margin-top: 60px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 0.1s all;
+}
+.hospital-btn:hover{
+    background-color: #52b3ab;
+    color: white;
+}
+
+.citydiv{
+    display: flex;
+    background-color: #52b3ab;
+    justify-content: center;
+    color: white;
+    padding: 10px 0;
+    align-items: center;
+
+}
+
+.deptdiv{
+    display: flex;
+    background-color: #52b3ab;
+    justify-content: center;
+    color: white;
+    padding: 10px 0;
+align-items: center;
+/* position: sticky; */
+}
+.heads{
+    font-size: 20px;
+}
+
+.sub-heads{
+    font-size: 20px;
+}
+.dept-ul{
+    margin: 30px 0;
+    /* background-color: firebrick; */
+}
+.info-list{
+    /* background-color: #52b3ab; */
+    overflow: hidden;
+    list-style: none;
+    margin: 30px auto;
+    width: 90%;
+    border: 3px solid #52b3ab;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.hospital-img img{
+    width: 350px;
+    height: 300px;
+}
+
+.main-hosp-info{
+    margin-left: 20px;
+}
+.hospital-name{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.hosp-address{
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.address-head{
+    font-weight: 700;
+}
+
+
+.pharmacy-select{
+    
+    /* background-color: red; */
+}
+.pharmacy-filters{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.pharmacy-img{
+    width: 300px;
+}

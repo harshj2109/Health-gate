@@ -1,0 +1,68 @@
+{
+    "city_details": [
+      {
+        "city_name": "Bangalore",
+        "pharmacies": {
+          "24X7": [
+            {
+              "name": "Apollo Pharmacy",
+              "address": "No.54/1, Ground Floor, Parangipalya, Hsr Layout Sector 2, Bangalore - 560102 (Above Sbi Bank, Behind Bda Complex)",
+              "image": "apollo.png"
+            },
+            {
+              "name": "Wellness Forever",
+              "address": "Site No.4BC-702, Ground Floor, BBMP Ward No.27-28, HRBR Layout, Bangalore - 560043 (Opposite Allen Career Institute & Unilet Stores)",
+              "image": "wellness.png"
+            },
+            {
+              "name": "Santosh Pharma",
+              "address": "No.7, Promenade Road, Frazer Town, Bangalore - 560005 (Behind Coles Park)",
+              "image": "Santosh.png"
+            },
+            {
+              "name": "Family Pharma",
+              "address": "#423/2 Family Pharma, 1st Main Road, 1st Stage, 1st Phase Gokul, Mathikere, Bangalore - 560054 (Opposite to Bengalore Smile,Opposite to Dance Class)",
+              "image": "family.jpeg"
+            },
+            {
+              "name": "Maruthi Medicals",
+              "address": " 157/4, Patrick's Complex, Near-St. Joseph's College, Brigade Road, Bengaluru, Karnataka 560025",
+              "image": "maruthi.jpeg"
+            }
+           
+            
+          ],
+          "non-24x7": [
+           
+          
+            {
+              "name": "Sri Ram Medical",
+              "address": "No 199/1, Kaveri Building, 22nd Cross, Varthur, Bangalore - 560087 (Near Vinayaka Cinemas)",
+              "image": "sir_ram_mdeical.jpeg"
+            },
+            {
+              "name": "Balaji Pharma",
+              "address": "No 46, Ground Floor, Central Excise and Customs Layout, Dr Shivaram Karanth Nagar, Rachenahalli, Hegde Nagar, Bangalore - 560077 (Opposite to Bharath Petrol Bunk)",
+              "image": "balaji_pharma.jpeg"
+            },
+            {
+              "name": "Brothers Chemist",
+              "address": "No 6, Hosa Road, Kasavanahalli, Bangalore - 560035 (Near Owners Court)",
+              "image": "Brothers_Chemist.jpeg"
+            },
+            {
+              "name": "Sanjivani Medicals",
+              "address": "No 24, Near BDA Complex, Hsr Layout Sector 4, Bangalore - 560102 (Near BDA Complex)",
+              "image": "Sanjivani_mdeicals.jpeg"
+            },
+            {
+              "name": "Bhagavan Pharmaceuticals",
+              "address": "No.54 Shop No.2 2nd Floor, 38th B Cross, Jayanagar 9th Block, Bangalore - 560069 (Opp to M K Ahmed Bazaar)",
+              "image": "Bhagvan_medicals.jpeg"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

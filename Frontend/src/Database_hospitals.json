@@ -1,0 +1,244 @@
+{
+  "problem_name": "Medical Facilities in Bangalore",
+  "city_details": [
+    {
+      "city_name": "Bangalore",
+      "hospitals": {
+        "Oncologogy": [
+          {
+            "name": "HCG Cancer Hospital",
+            "address": "No 8, HCG Towers P, Kalinga Rao Rd, Sampangiram Nagar, Bengaluru, Karnataka 560027",
+            "image_name": "Hcg_cancer.jfif"
+          },
+          {
+            "name": "Fortis Cancer Institute Bannerghatta",
+            "address": "Bannerghatta Rd, opposite IIM-B, Sahyadri Layout, Panduranga Nagar, Bengaluru, Jigani, Karnataka 560076",
+            "image_name": "fortis.jfif"
+          },
+          {
+            "name": "Bangalore Cancer Centre-BCC",
+            "address": "#118/1-2, Mookambika Temple Road, Machohalli Forest Gate, Magadi Main Rd, Bengaluru, Karnataka 560091",
+            "image_name": "BCC.jpeg"
+          },
+          {
+            "name": "Oncoville Cancer Hospital & Research",
+            "address": "No 4, 80 ft. road, Marilingappa Extension, Naagarabhaavi, Bengaluru, Karnataka 560072",
+            "image_name": "oncovillle.jfif"
+          }
+        ],
+        "Dermatology": [
+          {
+            "name": "Manipal Hospital Yeshwanthpur",
+            "address": "Manipal Hospital Brigade Gateway, #26/4, 80 Feet Road, Dr Rajkumar Rd, Malleshwara, Bengaluru, Karnataka 560055",
+            "image_name": "manipal.jfif"
+          },
+          {
+            "name": "Dermaqure skin and cosmetology clinic",
+            "address": "5th floor, santoshima enclave, above Adishwar 8th mile junction, Maheswari Nagar, T. Dasarahalli, Bengaluru, Karnataka 560057",
+            "image_name": "dermaqure.jfif"
+          },
+          {
+            "name": "Dr Health Clinic in Bangalore",
+            "address": "No.770 1st Floor, 8th Cross Rd, near New Public School, MC Layout, Vijayanagar, Bengaluru, Karnataka 560040",
+            "image_name": "dr health.jfif"
+          }
+        ],
+        "Trichologogy": [
+          {
+            "name": "Neotis Skin Care Clinic",
+            "address": "Kalyan Nagar, Bangalore, 229, 7th Main Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India, Landmark: Near Bosch Showroom",
+            "image_name": "neotis skin caree.jfif"
+          },
+          {
+            "name": "Oliva Skin & Hair Clinic",
+            "address": "Koramangala 7 Block, Bangalore, Opposite to Raheja Arcade, 7th Block, Landmark: Above Vodafone Store",
+            "image_name": "olivia.png"
+          },
+          {
+            "name": "Neo Follicle Transplant Clinic",
+            "address": "Marathahalli, Bangalore, First Floor, Scorpio House, Landmark: Opposite Purvankara Apartments",
+            "image_name": "new follicle.jfif"
+          }
+        ],
+        "Anaesthesiologogy": [
+          {
+            "name": "Karthik's Neurospine Clinic",
+            "address": "Tara Day Care, Near Vinayaka Theatre, JP Nagar 8th Phase, Bangalore - 560062, Landmark: Near Cafe Coffee Day",
+            "image_name": "karthik.jpeg"
+          },
+          {
+            "name": "Apollo Spectra Hospitals",
+            "address": "Koramangala 5 Block, Bangalore",
+            "image_name": "apollo.jfif"
+          },
+          {
+            "name": "SS Sparsh Hospital",
+            "address": "Number- 8, Ideal Homes Township, HBCS Layout, Landmark: Opposite to Icon Internation School, Rajarajeshwarinagar, Bangalore",
+            "image_name": "SS_Sparsh.jfif"
+          }
+        ],
+        "General Physician": [
+          {
+            "name": "Practo Hospitals Neo",
+            "address": "Number 1, 110/4, Rebus Realam, Neeladri Main Road, Doddathoguru, Electronics City, Bangalore",
+            "image_name": "practo.jpeg"
+          },
+          {
+            "name": "Dr. Mahesh's Diabetes Centre",
+            "address": "Indiranagar, Bangalore, 266/C, 80 Feet Road Hal 3rd Stage, Landmark: Near Lifeplus Hospital.",
+            "image_name": "mahesh_diabetes.jfif"
+          },
+          {
+            "name": "Wisden Clinics",
+            "address": "HSR Layout, Bangalore, 403, 15th Cross Road, 5th Main Road, Sector 6, Landmark: Opposite Attic Space Drone",
+            "image_name": "wisden.jfif"
+          }
+        ],
+        "Chiropractor": [
+          {
+            "name": "Atlas Chiropractic & Wellness",
+            "address": "820, Kannambilles, 1st Floor, 10th A Main, Landmark: Two Lanes Behind The Indiranagar Metro Station, Bangalore",
+            "image_name": "chirporsctor.jfif"
+          }
+        ],
+        "Opthamologogy": [
+          {
+            "name": "Sankalp Nethralaya and PolyClinic",
+            "address": "HSR Layout, Bangalore, 85/1, 19th main, Sector 1, Landmark: Near Gnan Srishti school.",
+            "image_name": "sankalp nethralaya.jfif"
+          },
+          {
+            "name": "Dr. Jain's Eye Clinic",
+            "address": "BTM Layout, Bangalore, 2nd Block, BTM 4th Stage, Landmark: Besides Shreya Medical Center Hospital",
+            "image_name": "Dr. Jain's Eye Clinic.jfif"
+          },
+          {
+            "name": "Dr. Agarwal's Eye Hospital",
+            "address": "NKS Prime, #60/417, 20th Main Road, 1st Block, Rajajinagar, Below Rajajinagar Metro Station, Bangalore, Karnataka, Rajajinagar, Bangalore",
+            "image_name": "Dr. Agarwal's Eye Hospital.png"
+          }
+        ],
+        "Allergogy": [
+          {
+            "name": "A - Star Specialist Clinic",
+            "address": "16/A - Star_Specialist_Clinic.jfif",
+            "image_name":"A - Star Specialist Clinic.jfif"
+          },
+          {
+            "name": "Manipal Hospitals Old Airport Road",
+            "address": "98, Kodihalli, Landmark: Near HAL Bus Stop, Old Airport Road, Bangalore",
+            "image_name": "manipal.jfif"
+          },
+          {
+            "name": "Aashraya Ent Healthcare",
+            "address": "1st Floor, Symphony KVNNB Venture, Kaggadasapura Main Road, Landmark: Above Union Bank, Opposite 6th Cross, Bangalore",
+            "image_name": "Aashraya Ent Healthcare.jfif"
+          }
+        ],
+        "ENT": [
+          {
+            "name": "People Tree Hospitals",
+            "address": "2, Tumkur Service Road, Goraguntepalya, Landmark: Near BMTC Bus Stop And Opposite Taj Vivanta, Yeshwanthpur, Bangalore.",
+            "image_name": "People Tree Hospitals.png"
+          },
+          {
+            "name": "Manipal Hospital",
+            "address": "Kirloskar Business Park, Bellary Road, Landmark: Opposite Dairy Form & Near Esteem Mall, Hebbal, Bangalore.",
+            "image_name": "manipal.jfif"
+          },
+          {
+            "name": "Apollo Spectra Hospitals",
+            "address": "143, Opus, 1st Cross, Landmark: Near Nagarjuna Hotel, Koramangala 5 Block, Bangalore",
+            "image_name": "apollo.jfif"
+          }
+        ],
+        "Cardiologogy": [
+          {
+            "name": "Apollo Hospitals",
+            "address": "New Number 1, Old Number 28, Platform Road, Landmark: Near Mantri Mall, Seshadripuram, Bangalore.",
+            "image_name": "apollo.jfif"
+          },
+          {
+            "name": "Manipal Hospital",
+            "address": "45/1, 45th Cross, Marenahalli Road, Phase II, Landmark: Next To Big Bazar & Opposite To Bangalore Central, Jayanagar 9 Block, Bangalore",
+            "image_name": "manipal.jfif"
+          },
+          {
+            "name": "Aster CMI Hospital",
+            "address": "No. 43/2, New Airport Road, NH.7, Hebbal, Sahakara Nagar, Landmark: Opposite Godrej Apartments, Hebbal, Bangalore.",
+            "image_name": "Aster CMI Hospital.png"
+          }
+        ],
+        "Dental": [
+          {
+            "name": "Chisel Dental",
+            "address": "18, 1st Main, Koramangala 1st Block, Jakkasandra Extension, Landmark: Near Wipro Park & Opposite to Sahana Child Care, Bangalore.",
+            "image_name": "Chisel Dental.jfif"
+          },
+          {
+            "name": "Dental De Care",
+            "address": "Domlur, Bangalore, 111, 4th Main, Landmark: Kalki Dhyana Mandir, Bangalore",
+            "image_name": "Dental De Care.jfif"
+          },
+          {
+            "name": "Smile Dental Care",
+            "address": "Vijayanagar, Bangalore, 4, 4th Cross, 5th Main Road RPC Layout, Vijayanagar 2nd Stage, Landmark: Near Hampinagar Post Office, Bangalore",
+            "image_name": "Smile Dental Care.jfif"
+          }
+        ],
+        "Pediatrician": [
+          {
+            "name": "Ovum Woman & Child Speciality Hospital",
+            "address": "916, 5th A Cross Road, HRBR Layout 1st Block, Landmark: Near HRBR Layout Water Tank and Near Horamavu Junction Ring Road, Kalyan Nagar, Bangalore.",
+            "image_name": "Ovum Woman & Child Speciality Hospital.png"
+          },
+          {
+            "name": "Chinmayi Child Care Clinic",
+            "address": "Bellandur, Bangalore, #209, Prem Vatsava arcade Green Glen Layout, Sarjapur Outer Ring Road, Landmark: Opposite MK Ahmed, Above SBI Bank, Bangalore",
+            "image_name": "Chinmayi Child Care Clinic.jfif"
+          },
+          {
+            "name": "Apollo Hospital",
+            "address": "154/11, Bannerghatta Road, Amalodbhavi Nagar, Panduranga Nagar, Landmark: Opposite IIM, Bannerghatta Road, Bangalore.",
+            "image_name": "apollo.jfif"
+          }
+        ],
+        "Gynecologogy": [
+          {
+            "name": "Aparnaa Women's Clinic",
+            "address": "BTM Layout 2nd Stage, Bangalore, Bannerghatta Main Road, Billekahalli, Landmark: Next to Kalpavruksha Veg Restaurant, Near Brand Factory, Bangalore",
+            "image_name": "Aparnaa Women's Clinic.jfif"
+          },
+          {
+            "name": "Ovum Woman and Child Speciality Hospital",
+            "address": "11/B, 19th Main, 25th Cross, 2nd Sector., Landmark: Near Poorva Apartments & Behind Indian Oil Petrol Bunk, HSR Layout, Bangalore",
+            "image_name": "Ovum Woman & Child Speciality Hospital.png"
+          },
+          {
+            "name": "Kauvery Hospitals",
+            "address": "Survey Number 91/1 A&B, HP Avenue, Konappana Agrahara, Electronics City, Bangalore.",
+            "image_name": "Kauvery Hospitals.png"
+          }
+        ],
+        "Psychologogy": [
+          {
+            "name": "Insightya Clinic",
+            "address": "Flat Number 1004, The Five Summit Address , EPIP Zone, D Block, Road Number 10, Landmark: Near Mercedes Office, Bangalore.",
+            "image_name": "reena.jpeg"
+          },
+          {
+            "name": "Greenview Medical Center",
+            "address": "20,21, 14th Main Road, Sector V Landmark: Opposite Agara Lake HSR Layout, Bangalore",
+            
+            "image_name": "greenview.jpeg"
+          },
+          {
+            "name": "Apollo Hospital"            ,
+            "address": "154/11, Bannerghatta Road, Amalodbhavi Nagar, Panduranga Nagar Landmark: Opposite IIM Bannerghatta Road, Bangalore",
+            "image_name": "apollo.jfif"
+          }
+        ]
+      }
+    }
+  ]
+}

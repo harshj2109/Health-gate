@@ -1,0 +1,199 @@
+{
+  "city_details": [
+    {
+      "city_name": "Bangalore",
+      "pathalogy": {
+    "Blood Tests": [
+      {
+        "name": "Metropolis Healthcare Ltd",
+        "address": "101, Bannerghatta Main Rd, Bhavani Nagar, Suddagunte Palya, Bengaluru, Karnataka 560029",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Metropolis_Healthcare_Logo.png/330px-Metropolis_Healthcare_Logo.png"
+      },
+      {
+        "name": "SRL Diagnostics",
+        "address": "No. 52/2, 41, Basavanagudi Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/SRL_Diagnostics_Logo.png"
+      },
+      {
+        "name": "Dr. Lal PathLabs",
+        "address": "276, 10th Cross Rd, 2nd Block, Rajaji Nagar, Bengaluru, Karnataka 560010",
+        "image" : "https://www.financialexpress.com/wp-content/uploads/2021/10/lal-pathlabs.jpg?w=1024"
+      },
+      {
+        "name": "Apollo Diagnostics",
+        "address": "24/5, 5th Main Road, Malleshwaram West, Bengaluru, Karnataka 560003",
+        "image": "https://seeklogo.com/images/A/apollo-hospitals-logo-D404E82528-seeklogo.com.png"
+      },
+      {
+        "name": "Neuberg Diagnostics",
+        "address": "# 228/15, 24th Main Rd, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+        "image": "https://franchiseindia.s3.ap-south-1.amazonaws.com/opp/article/english/images/1331737414.jpg"
+      }
+    ],
+    "Urine Tests": [
+      {
+        "name": "SRL Diagnostics",
+        "address": "No. 52/2, 41, Basavanagudi Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/6/61/SRL_Diagnostics_Logo.png"
+      },
+      {
+        "name": "Thyrocare Technologies Ltd",
+        "address": "1st Cross Rd, Suddagunte Palya, Bengaluru, Karnataka 560029",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thyrocare_new_Logo2022.svg/330px-Thyrocare_new_Logo2022.svg.png"
+      },
+      {
+        "name": "Dr. Lal PathLabs",
+        "address": "276, 10th Cross Rd, 2nd Block, Rajaji Nagar, Bengaluru, Karnataka 560010",
+        "image": "https://www.financialexpress.com/wp-content/uploads/2021/10/lal-pathlabs.jpg?w=1024"
+      },
+      {
+        "name": "Apollo Diagnostics",
+        "address": "24/5, 5th Main Road, Malleshwaram West, Bengaluru, Karnataka 560003",
+        "image": "https://seeklogo.com/images/A/apollo-hospitals-logo-D404E82528-seeklogo.com.png"
+      }
+    ],
+    "Immunology Tests": [],
+    "Histopathology": [
+      {
+        "name": "SRL Diagnostics",
+        "address": "No. 52/2, 41, Basavanagudi Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/SRL_Diagnostics_Logo.png"
+      },
+      {
+        "name": "Apollo Diagnostics",
+        "address": "24/5, 5th Main Road, Malleshwaram West, Bengaluru, Karnataka 560003",
+        "image" : "https://seeklogo.com/images/A/apollo-hospitals-logo-D404E82528-seeklogo.com.png"
+      },
+      {
+        "name": "Suburban Diagnostics",
+        "address": "#30, 11th Main Rd, Malleshwaram West, Bengaluru, Karnataka 560003",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/9e/20/57/9e205796-f0c2-a968-c785-63b60e550649/source/512x512bb.jpg"
+      },
+      {
+        "name": "AARTHI DIAGNOSTIC AND RESEARCH CENTRE",
+        "address": "#156, 9th Main Road, Jayanagar 3rd Block, Next to Josalukkas, Bangalore 560011",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfBsmLc47BFTAUUh1Y-yU99sRVLzOVPlTBFIii21O6A&s"
+      }
+    ],
+    "Microbiology": [
+      {
+        "name": "SRL Diagnostics",
+        "address": "No. 52/2, 41, Basavanagudi Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/6/61/SRL_Diagnostics_Logo.png"
+      },
+      {
+        "name": "Neuberg Diagnostics",
+        "address": "# 228/15, 24th Main Rd, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+        "image": "https://franchiseindia.s3.ap-south-1.amazonaws.com/opp/article/english/images/1331737414.jpg"
+      },
+      {
+        "name": "Suburban Diagnostics",
+        "address": "#30, 11th Main Rd, Malleshwaram West, Bengaluru, Karnataka 560003",
+        "image" : "https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/9e/20/57/9e205796-f0c2-a968-c785-63b60e550649/source/512x512bb.jpg"
+      }
+    ],
+    "Hematology": [
+      {
+        "name": "Apollo Diagnostics",
+        "address": "24/5, 5th Main Road, Malleshwaram West, Bengaluru, Karnataka 560003",
+        "image" : "https://seeklogo.com/images/A/apollo-hospitals-logo-D404E82528-seeklogo.com.png"
+      },
+      {
+        "name": "Medall Healthcare Pvt Ltd",
+        "address": "158, 1st Main Rd, Koramangala 7th Block, Koramangala, Bengaluru, Karnataka 560095",
+        "image": "https://content.jdmagicbox.com/comp/bangalore/k6/080pxx80.xx80.170208121930.a3k6/catalogue/medall-healthcare-pvt-ltd-wilson-garden-bangalore-diagnostic-centres-kdv1l1105s.jpg"
+      }
+    ],
+    "Serology": [
+      {
+        "name": "Dr. Lal PathLabs",
+        "address": "276, 10th Cross Rd, 2nd Block, Rajaji Nagar, Bengaluru, Karnataka 560010",
+        "image" : "https://www.financialexpress.com/wp-content/uploads/2021/10/lal-pathlabs.jpg?w=1024"
+      },
+      {
+        "name": "Suburban Diagnostics",
+        "address": "#30, 11th Main Rd, Malleshwaram West, Bengaluru, Karnataka 560003",
+        "image" : "https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/9e/20/57/9e205796-f0c2-a968-c785-63b60e550649/source/512x512bb.jpg"
+      }
+    ],
+    "X-rays": [
+      {
+        "name": "Clumax Diagnostics",
+        "address": "#71, 1st main, 1st Cross, New Thippasandra, HAL 3rd Stage, Bangalore 560038",
+        "image": "https://content3.jdmagicbox.com/comp/bangalore/f9/080pxx80.xx80.180108151111.z4f9/catalogue/medall-clumax-diagnostics-jayanagar-bangalore-diagnostic-centres-nzd7ktop2p.jpg"
+      },
+      {
+        "name": "Anand Diagnostic Laboratory",
+        "address": "# 54, Bowring Tower, Bowring Hospital Road, Shivajinagar, Bangalore 560001",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/u4/080pxx80.xx80.181103101214.m6u4/catalogue/anand-diagnostic-laboratory-vayali-kaval-bangalore-diagnostic-centres-jqdyvu7lhw.jpg"
+      },
+      {
+        "name": "Anand Diagnostic Laboratory - 2(SERVICE)",
+        "address": "# 8/A-14, East End Main Road, 4th T Block, Jayanagar, Bangalore 560041",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/u4/080pxx80.xx80.181103101214.m6u4/catalogue/anand-diagnostic-laboratory-vayali-kaval-bangalore-diagnostic-centres-jqdyvu7lhw.jpg"
+      },
+      {
+        "name": "ELBIT MEDICAL DIAGNOSTICS LIMITED",
+        "address": "No.1&1/2, INDIAN EXPRESS BUILDING, QUEENS ROAD, BANGALORE 560001",
+        "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxATEhISEBAQFRAVEBUXFRUQFhcVFhUWFRgWGBYVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGyslHR0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzctN//AABEIAJUBUwMBEQACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAABQEDBAYHAv/EAEIQAAEDAgIECgkCBAUFAAAAAAEAAgMEEQUGEiExcQcTFDIzQVFTcpEWIjRSYYGhscFz0UKSsuEVIyRjgjVDwvDx/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAEEAgMGBf/EACoRAAIBAwIGAgMBAQEBAAAAAAABAgMEESExBRITMjNRFEEVImEjcYFC/9oADAMBAAIRAxEAPwDuKAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAUBS6AppKMMx5kNJS84J5kVBUJklVIPL3WF0WpDeDxFUNdsOvrClpohSTLl1CMkLoMi6EZF1DeCUeXSAbbDepWpDaW55gna++jrAUtERlkuqDIIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIDy4oG0tyHq8Qe92hALnYXHYFtUMaso1Krk8RLIwOR+uSolB7I3kBZurFfQVvN/YOGTx9FM936hLvyinBkOlUi9zLw3EdImOQaMg7evcsJw0yjdSqPaRKXWnJZKEJEhkDi9NLEeOg121vZ7wG23xsFZpuL0ZSrxnH9kZmD4tHO24PrDa3rBWFSi46/RtoXClp9kXnLMJpmt0B6ziqtWfLH+ntcPslWepCZZzpLJKI5rWdsIWqlX5ngv3nCo04ZRvdTUNY0ucbAC9yrcIcz0Obq1FTWpr1PVyVjyG3bTtOs7C63Z8FvcYwWPspxn1n/DZYIw0ADYAq7Zeiklg93QyF0BVAEBS6AXQC6EZF0yTkXQFboAgCApdA9BdALoBdALqMgrdSAgCApdMgXQC6ArdCMhCQgCjICkFCgI7HKrQiJG0nRG8rZSXMzRcvENTW24/yZuiad7vedcayrit+pszzvk9LVoyRm60ZkdTvAAFrka7rX8TLwjZ89RWWtCQlx+MU4qbHRI2LT8ZqfKb3exdPm+jCmquPhZUsbouBB19nWtqjyPlZrVRTXObDSz6TGu7WgqvKKTLUajwZKwN54cmcGLXs0jMdA+mk5VTg2J9drfqbL0KE1NcrPHuYSpS5o7HrEaNmJQtfE4cY3aPj1/dULu2aZ0PBuKqK1MPL+UXQP46ocA1msW/Kq0Ld8x63EeMQdIuVFVJiE3Fs0hTtPrW2H4Fe5GEaMNdzhpVZXE9NjdqOlbG1rWAANFtXwXnTlzPJ61GkoLB6q6lsbS95sAoSbeEZ1JxisshvS+j7w+SsOzqlJcSo7ZHpfR94fJPh1R+QpeyvphSd4fJPh1R+RpD0wpO8Pknw6o/I0ihzfSd59FPwqrD4jSJLDMSjnaXRm4BWidOUNGWKNdVVlGY91tZ2LA3EHJmykBILzcHsVlWtRrOCm72knjJn4dikU9zE64B1rTODg8M3Uq8Z6xM8LAsFUAQHhxTDbIzplkLPmmlY4tc8gg2OpWFa1JaopzvqcXhlv0vo+8Pkp+HVMPyFL2PS+j7z6KVZ1R+Rpey/T5lpX7JB81ErSpH6NkL6lL7JOCoY7W1wI+CrtY0N8asZbF4KDaCgIzE8cggIbK6xK2wtpVFlFWrdRp7lijzLTSODGPu47NSylbTgtTXSv4VJYRK1EzWNLnHUBcrRH9nguSlyrLIQZvpO8+isK0qfRS/IUk8Mr6YUneHyU/Dqj8jR9j0wpO8Pknw6pH5GkU9L6PvPop+DVH5GkV9MKPvD5KPh1SfyNH2VjzZSOIAfrJtsT4dRLLJV/TlohmnXHGRsEzCd11hRW6M7iXMky3mkDiLhbaEmpMr3FOLpows0RA0jBba1uztst1s2qryaruEXRWDVTJIWij12DSfIaSvNR5lI8vmfJy+jacFsMO19cbgN68+s81dD1aEcUCcwRjuTw328W37KtN/sy5DtRKrSWwgLNXAHtLSNRBCyhJxeUa6sOeODmzy/D6r/acflYletpXp/wBOdk5W9X+GVmzHjMWQQHU4i5HxWNvbKmuaRsu7yVZqMTa8s4Q2niDf4jzj2lUbmp1JaHq2VBU6epMhVy7jBEZs9ll8K323kRTvfEzjhXTfSOMk9T02F5Fw11lhzwbwzaqVRrKPXJ3+67yUc1P2T0p+hyd/uu8k56fsdGfoCnf7rvJT1Ka+yHRqfSOjcHLCIX3BHr9a8LiDTlodLwyElDU2mq5rvCVUh3I9Cp2M4hXdLJ43fddRTX6o4qu/3Z0Dg26J+8LxuI9x0PCNmbsF5x7JVAEBam5rtxUrdGFTtZxXGenk8ZXTW0E4pnFXbfUaMRjHHmgnct8nBbmqMJNaHo07/dd5LBzp+yelP0eS1w2gjfqUKUJDE4Elg+NzU7gWuJb1tK0VrWMolq3vZRkjrGEYi2eNr2naNfwK8GrS6csHUW1x1I5M5aWWWc04R+lZu/Ze5w7tOb4puRGUvaY96sXXjZT4e/8AU6ljzSaeUDboFeBQ0nqdRcpunocbfTSXPqO29i6OMqeDkqlKbk9CnJ5Pcd5LLnp+zX0qn0i29pBsbgrYlFrQ1yUluVYxx1NBJ+Cj9VuTGM3se+TSe67yWLnT9mzoz9GRh9O/jI/Udzx1fELTVnT5WbqFGammdhrKbjI9Hr0dXwK56MsSbOsdLngiMpgyRnETH1m6tfXbrC2SWNUV4b8siRq8NjkYGO2C1vksI1ZReTe6MZGO7A4eMMtvWLLfK1ls68msGp2lNPJGvp2kMpoeYHXcRv2LKLz+zNSW0UbJFEGgAdQVaU8svRp6F5QbAgKOTOCNTVc/U0boC51tJvNv1q9w+T5sfR5HFoJxNY4PaeN8xL7XA1A/JX7/ACqehR4bCLqanUdFeEdLhYwVQkh82eyy+FWLbyIqXviZxs9a6X6OMl3HW8rUcZpoiWNJ0esBc5c1JKpozq7GlB0llEtyCLu2eS09WXsu9CHocgi7tnknVl7J6EPQ5BF3bPIKHUl7I6EPReiha0Wa0AfBYSbe5nGCisI8VXNd4Ss4dyMavYziFd0snjd9109PtRxVfvZ0Dg16OTeF43EtzoeEbM3YLzT2SqkBAWp+a7cVK3RhU7WcVxrp5fGV1Ft2I4u68jNr4Oadjw/SaDr6/kvNv5yWx6vC4qW5vHIIe7Z5Bea6s/Z7nQp52MPE8Ep5GOBjZexsQLW+azp15J7letaQlFtI5FXQ6EjmDY0/RdHTk3BZOTrR5JvBvHBrKdB7eraPovG4hBJ5Pe4XJtam9rzJHto5pwj9Kzd+y9zh/ac1xXuIjKXtMe9WLrxsqcP8p2EsBFiNRXO5OvxlFn/D4u7b5LPqS9mvoQ9Hl1BF3bfJOpL2RKhDGxyXN0YFVIALDS/AXv2Tbp5OVvtKmESvB1C10z9IA+p171X4g3FaFrhkVKWGdG/w+Lu2+QXkdSXs6HoQ9FRQxdTG+Sh1JP7J6MPRfLQsEbV6MDEMNbJr5rvebqKzjNorVaTkYHI61mqOSNzf9y5K2uUGYKNRFRh1VJ00oA/2rhQ5RWxCpTbyyVoaJkYs0a+s9Z3rU5uRvp0VAybLDBuKqQEBRyhjBz7hGqnOcyJp13FxvXr2EFy5Oe4nUcpcqIXDo30lUzS2Gw7L3srdVqrT0KNDmoVEn9nWmPuAVz7WGdbGWY5PSgyIfNnssvhVi18iKl74mcbPWul+jjJdx0bL2aKWOCNj32cBYrw7i1nKeUdHaX1OFPDJL0zo+8Wn4VUs/lKI9M6PvE+FVH5SiVGcqM/xp8KoZR4lSlsTtPUNe0ObzSNSqyjh4ZdjNSWUearmu8JWUO5GNXsZxCu6WTxu+66en2o4qv3s3/g06OTeF43EtzoeEbM3cLzT2SqkBAWp+a7cVK3RhU7WcVxrp5PGV09u/wBEcVdeRk7krG4qcP4w2uVUvLeU9UX+HXMKXcbT6a0vvLz/AIUz1nxOizBxPPUOgRGCXEFbqdhLOSrX4kuXCOezPL3Fx5zivXilGOGeDNupLKOl5Bw10cOk8a3HVu1f3XiX1ZTlhHR8NoyhHLNsXns9fY5pwj9Kzcvc4f2nNcV7iIyl7THvVi68bKnD/KdjC5w7BbC6EhyEPY47nE/6uTx/suistKaOQv1/qyW4Numk/T/Kr8S2TLXCNZHTV4p0wQFCgFkAsgFkACAqgCAIDy8qPtD6OZ1w4/Eg3aLfa/7L2YYp0Tm5/wClxgzOEKm0XwPHUdZ3bFhZT5k0zZxCkoSTRuWDTacMbtt2rzqqxI9a2lzU0zPC1loiM2eyy+FWLXyIqXviZxzrXTI4ue56bA86wxxHwBWvqxjLU2KnJx2K8nf7jv5SnVQ6VT0OTv8Acd/KU6qHSqeirKd9x6jto/hKxlWjgzhRqNnZcC6CO+3RG1c3cazbOutYtU1kyqrmu8JUQ7kbavYziFd0snjd9109PtRxVfvZv/Bp0cm8LxuJbnQ8I2Zu4XmnslVICAtT8124qVujCp2s4rjXTy+Mrp7fsRxl1jnZiMicdjSdwutjmo7miMZNaHrkr+7f/KVDrwM+jU9FHQPG1jhvBCmNaH0Q6Uo7laabQc14F9FwNlEo8+xFOXI8nV8r48yoZYCz27QueuKEqcn6OrsruNSKX2TyqM9Bs5rwj9Kzd+y9zh3ac3xTciMpe0x71YuvGynw/wAp2PqXOHYLYt39b/j+UJPTnDrKB7HH84+1yeI/ZdFaeJHIcQ8rJbg36aT9P8qvxHtRZ4P3HTV4p0wQBAEAQBAEAQBAEB5en2Q3oznmAx6WIvPYT+V61fwo8ChHNwSvCLGOJB6wVosN2WeJx/VE1lj2WHwBV7nyMt2XhRKhaC4RGbPZZfCrFr5EVL3xM42ev5rpXnGhxj7zreVKZhpYiWi+j2LnbqrNTZ1Vlb05U9SY5JH7jfJaOrL2X+hAckj9xvknVl7HQh/AKSP3G+Sh1Z+yHQgXg0dS1uWdzalhYRaqua7wlbIdyNdXsZxCu6WTxu+66en2o4qv3s3/AINOjk3heNxLc6HhGzN3C809kqpAQFqfmu3FSt0YVO1nFca6eXxldNbdiOKuvIzbuDaNpD7gHWdvyXnX9R/R7HDKSe5vIp2e4PJebzy9nuOjDGxanw6J4IcxpB+CRrTiYStqclscwzphTYJgGamuBNuzWvdsazmtTmL+3VKWUWsoVTmVMdjYOdolTe0/0bHD6uKiR19c6zrM5OacI/Ss3fsvb4d2nOcU3IjKXtLN6sXXjZT4f5TsY2LnDsFsWjzv+I+/9kJPWjtugexyDOPtcniP2XRWniRyHEPKyW4N+mk/T/Kr8R7UWeD9x01eKdMEAQBAEAQBAEAQBAeX7E2Ieuho+CR6OISg7SL+d16daXNRR4tKPLWZn8IAvTi3eN+60Wfcb+IdqJjL7NGnib2MC0Vu9ly18aJILSiwRGbPZZfCrNr5EVL3xM42etdK3hHGNZkdcytVRimiBc0HR61zlzTnKpnB1ljVpqmk2S3LYvfb5rT0p+i716fscti99vmnSn6I69P2OWR++3zTpz9Dr0vZ7jna7muB3LGUGlqjONSM1oUqua7wlTDuRjV7GcQrulk8bvuunp9pxdfuZvnB1Oxsb9JwGsbV5N/CTloe3wmcYx1ZuPLYvfb5rz+lP0ev8in7HLYvfb5p0p+grin7Ktq4ybB7b70dOSWxmq1OWmT3PzXbisY7omp2s4tjXTy+Mrp7ftRxV0/9GjbeDiZrRJpOA27fkvO4hTf0exwypGMdTeBWRe+3zXlulP0eyrinjcsVeLwRi7pGj57VMaE/RhUvKcFucvzdjDaiYFnMaCAe3WvcsqThE5m/uFWloeMpQF9THYag65U3lT9GLCk3VTOxLnWdcc04R+lZu/Ze3w7tOc4puRGUvaWb1YuvGynw/wAp2GxtqPmucOwWxRke25uShJVwPapQexx/OPtcnj/ZdDZeM5DiHkZLcG/TSfp/lV+I9qLPB+46avFOmCAIAgCAIAgCAIAgKFQwarUQ6GIMf1SNt5Aq9F5pYPLnHFZM9ZzBcIoxtc9vkDrWNq8JszvI8zSNjgjDWgDYAq0pNvLLtKKisIuhYmxkRmz2WXwqxbeRFS98TONldPjRNHGPcuNneNQc4D4FYOmmSpTQ5RJ77vNOmjLq1PY5RJ77vNOmh1qnscok993modOKaIdWf2zduDiRxc/ScTvK8ziMV9HucIm5ZTN6q+a7wleVDuParZ5Hg4jXdLJ43fddPRWYnGV0+ZnhsrhscRuWTpp7mCnOD/UryiT33eadNDq1PY5RJ77vNHTiSqs1rkkcv1D+URjTdt7VWuYRUdCza1JyqHX38w+H8Ln/AP7Osfi19HGMa6eXxldLQ7U0cbcZ6jMSOVzea4jctrjzPU0qUlse+Uye+7zUdOJmqtT2eHyOO0k70UYISnOW5epKKWVwDGXJO5a6leFNaClQlN4SOl5Py/yduk/pHfT4LxLq46jwtjpbK0dLV7mzlUj1sHNOEfpWbv2XucOX6nMcTb5iIyl7THvVi8wqZUsH/sdjC5s7FbFUJKOQh7HHs4+1y+L8BdDZP9MHH8Qb6rJXg36d/wCn+VX4i9EW+Edx00LxjpggCAIAgCAIAgCAIChUMEbidDpOjeNrCT56lthPCwV50cvJWpo9OWN5FwxpHmkHypkzhzNMkAtZuWhUISWaymbIwseLtO1ZRlyvKMKkFOOGQfobR939SrKvaiWMlJ8OpP6HoZR939Snzansj8bSK+hlH3f1KfNqex+NpFPQyj7v6lPmVPZH42kPQ2j7v6lPmVB+OpejPwvBIYCTE21/itVStKe5YoW0aT0JBzbgg7CtP2b2skFJlCkcSTHrJ7SrMbupFYyUZ8OpyeTz6GUfd/UrL5lT2PxtIr6GUfd/Up82p7H42kPQyj7v6lPmVPY/G0i7S5UpY3B7WWI2aysZ3U5LBthZU4PKRNFmq3Uq6b3LeFjBCVGUqR7i50esnXrKsRuppYRSnYUpvJb9DKPu/qVl8yp7MPxtIehlH3f1KfMqex+NpHtmUqMbIvqVj8qp7MvgU/RJ0uHRRizGNHyWqVWUtzfStqdPZGVZazehZCfsi8TwCCd2lKy53lb4V5QWEVa1rCq8ss0WWKWJwexlnD4lTO5nJYZhTsacJZRNhVy6VQFCgIWtyzTSvL3su4nWblb4XE4LCKU7KE5ZaL2GYDBAS6JtnEW2lY1Ksqm5nQtYUnlEqFqLRQlALoCqAIAgCAIAgCAoUBj1tU2Nhe82aNqyjFyeEYVJqCyyzTYjG9nGNddoBPksnSaeGaY14yWUMOxSKYExm4BsonCUe5YMqNdVNjNBCwN7DyhDeCOGMwlrnB3qtIB+B7Fn05ejUq8X9mbBMHNDmnUdiwaxobU09S6HBCSl1GUQYjMQYZDED642hZ8rxnGhr6iTx9jEcQZC3TkNheymEHJ4RjVrqmssxKTMNPIQ1rxc7FsdvNLODVC9g9GzMlxCNrmsJ9Z2z4rXySeqRvdVGU0rA2LUrdCRdMgXTIF0A0ggFwgPEsrQNbgN6mKzsRKSjuYz8QjEgjJ9cjUFPI8Zwa+qs4My6xNmRdCRdAYtbXxxW0yBc2HzWUYSlsjCVSEd2ZGmLX6rLEyytzGpMQjkLgx1y1xB3hZOLW5iqkXszLBWGTMpI8AEnqUrUhvBh0mJRSBxY4WabEnqWXKzWqqMxjwdYNwsf4bE86ordCSzV1LWNLnHUFKTexhOaiKSobI0PbraRcI01uIz5ti+oMwgCAIAgCAIChQGv529kl3D7hWrPyFG/wDGzV8EqTHRzt62kD+b/wCq9Viuqjx6NVqizJyHKIo53O2MNz8lhewy0izY1eSLZLYbmoSSBro3Na42Y4jbtVSVBpZLMLzmlhnvGcztjkMTGOeQPW0eq+xZ0rZtJsXN6sNRIHBZ4+IqHyNuzjG6utbqqxJIqW8202yeqsdjggjLWElw9Vo2rRC3c5l2d2oQPeF5kZLG9zg5rmC5B2rGdDllgypXnNHJi0ebNKRrHxuDHEhriNqzla6ZNUL7mngrh3/UJ/8Aj/SFEliiZU5c1dnrP7QYWA7DK26iz3HEFnQi8Yy9HFAyeIaL2gHUrFOs5zcCrUtVCCnkknVcRfS6bSXu2H5LU4uOUb41M8oxDNnFyOYyNzmtI0nAahdRC2yssyqXjhIz63MLGQslAJ07aLRt1rVGhmTRuneRUFL2YmH5qEj2xmN7XkfxBbJW2hqXEI52LE2cwNINieS1xBsNQANrqY2uhhK/eSUkzBEKcT9RGodZOyy1KhmeCxK8j08oxMHzO2V/FvY5jtrdIWBC2VLdxWUaaV6paMs1ua9GRwZE90bDZzmjZ1KFQ/XLJnd/thGDnDFTenLQ6xN9XXdbreikmzRd3MsokYquI1EOkwiQsdbVqGoLVKD5Hg206n7ps81+bAyQtaxxY02c4DUEVv8ArlmcrxZMrEsyNY2Pi2F75GggAa7FY07fm1Jq33KtDKwDGRUNPqlrxtBFlqq0+UsW9fqoiM9DoP1W/wBQVi02ZUve5G0NNmjwqp9s9CHZ/wCGtUWJxRtqZGsPqSO0tW031281alTcmkebGsoJlkZ0bpNJjeGOGokbTtWfw2Q+I42MvC8xCVz43sLTYkAjaLa1hO25VlGUL9SeGQVfiDG00vEscLyC5VmlSXMs+irVrcsW0S1DmIR0rHOY7S5rRbWTZVpUP3ZZp3nLTRIYHj4mDg5rmvaLkOFtXatdSi4m+leKWTX8bzOJWvY2N+he2nbUrVvbfbKNxd8zwjacsezQ+AKnc6VGj0rPLp5JVaS2EAQBAEAQBAUKEPY1/PHskm4fcKza95RvvGaViDHNlMQ5sjmE/Ky9ODTWWeHPKeDNazRirAO9sbeFYTkpSib6eeSRcpqeqkFNdgDGEFpsNYstblGLeSacZyWhm5bYHT1PGWLtEDX81hVl+q5fZvowi85IyiA5NU22ca2y271Fk0p4g8GYADUUYds4rr8S1ttRlgyisyi5E5WSUkTZnNDS8Nu4duvYq0edtZL85Uox0NXxGWZ7qd72tbGXeo0DX9Fdgkk0eZJpyTRO4Z7fNuZ/SFVn4i7Q8xcz90Uf6zFFpuzbf/RXME7RR6JIuWAAdp1JRi+q2YV6kXSUURsjLS0N9Wr/AMSrGcxkVE3GUSxiFZJLxwgja2ManOsNepZUkljLIrzck8Fi3q0GlssNuzU5THH7YI1Sjkk8SDf8Qi0SOjGzeVqg30Xk21eXqJRMfAogWVZIHPf9ysqjxKJhRhlSyRp9npAeZxhv2c/Us1HDkRnKRMZma0T02hYG7Rq7Li+xaKTlyvJsrqPMuUwq+KppnyPiDZIXOJeLXst9PlqJJmqpmE8l/GapsrKR4AALzq+WxaqcXCckbaslNRMivNqyO3cvI/lCmn49fYq6T0GUmxmOfjLW0zpX6tRutdw5cywTbKnrzDHcPLuKlo3N0msGi34f+lZUKmjUjK5pLRw2MvKGJukfIySMNlaLkgWvs2rC6gkk0bbGby0y1nrbB+qz+oKbRaMi+7kbM17dHaOaqbg1LJdjOLjjP0aGOgrf1JF6L3R5ONH/ANL2NQN4uiFhYuF/5UpSbciKkUlEvzsArxbuj/SFCb6ZLSUyOgA5HPq/7wUp/wCiMFrBl3GdICj4sAmzbC1wT8VMN5ConyouCmqtOSWRrWkxgEN7AkZx5UjGMJ6nqmZGcNJIF9M/1FYZkquhujGLo5e+Tacrj/TQ+BU6/ez1LTxollpLQQBAEAQBAEBQoCNx3DzPC6MG17a/hcFbKc+V5NFekpxwRdTlsuljk0+YCDq2qwrnCKTsssuwZftygOcCJXXHw1WWDuMNGyNo1FmDh+W5g9nGTF0cZ9UWtuB1rOpWi45+zRStpqeuxdxTLkjpeMhk0NIWcANtllSuUo4ZlUtJZ0PFLlZ7IZIuMuXOaQbdixlcqU8mUbFqOC7ieW3PjiDX6MsYABskK6Ta+mRWtJOKx9FqhysRHKJH6UkgILrfNZVLlN6GNO0ly6lgZXqHGPTmuIz6ot8u1T8hLYwjZSepM0eEubUPmLtTg3VbZYWWiVVcmC5StnGfMxmfCHVMYY12iQ4G+5LesoSyLy3lVWEQlHkyTSaZpy9rTqaR/dbp3S3RUp8Pmu5kzW4KXzQvDgBH1fIj8rVGvhP+lmVtnGfoiZcqTaUoZNoxP26rlboXMUlncq1LKXNpseMSwyJkEUEsujILBj7dd9Syp1W5NpbmNailDDexg0NFxdYxvGca7RBJ7Na2zqJ0msFelT/0WGbHh2BmNszS8f5jnEHsubhU5V8tP0elTtmk17LQy1emEDnesCSHDqubhI3LUs+zGdo+XCLGD5akbJpzyaZaLNFurb2rZO5SjhGFO0k3qeKzLdRpvEU1o5DdwIvt+aiFeOMvdE1befNoZOJ5ZLoY443WdGbg26ztWMLn9m2TOyfLoXY8Dfx0Urng6LC0i224ASdwsYRMLWWcsjq3KkpkcY5dGN7ruFlthdJrU11LN50Muvy060RgkLXxgD4EDtF1hC4jzPJnOznyrDMnLuDOhc+SR+lI/abWWu4rqWiNtrbyp6yGaMEdUtaGv0SDfYlvXVMm8tnUWhF0WWKlrwXVBIHVb+63TuIMrUrSqt2Zno27QnZp9KXHZsutbuMm5WbxguV2AukbTgOH+VYn46rJGvy5/pErRvH8PcuBuNQJtLVoFtrdoA/Cjr4jgO0beTGhy0WwyxF+t7rg22WRV/2TMXZvlaRaGWZTA1rpP81jrsIGz6rL5CUv4zF2U5Q1Zk4LgcjC988pe5zba72HyvtWNSqlsbKNrLDyR0mT5vWYJ7RF19G3xv2rdG6itfsruxm9Po2rCaUxRMjJvottdUqkuaWT1KFPkjymasDcEAQBAEAQBAEAKA86KjBORZS0QmxZQ9Q/4VsiRG+4spwgLINRZCSlkIa1K2QMpZRFYJFlOECtkAssWtQYlfhscwtI0OA2XW2FSUXoaqlGM1hlqiwaCJ2nHG0Ota47EdWTWGzGFvCLykZ5Cw0LCFli1kjUrZTgjUWUNeiRZTgjUWTBOospI1KWTQn/AKLKGkBZMDUWRIjUWTA1FkwTljRRInJWykgWQFLKMDI0UwTkqAhBVSAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCA//Z"
+      },
+      {
+        "name": "KANVA DIAGNOSTIC SERVICES PVT LTD",
+        "address": "No.2/10, Dr. Rajkumar Road, 4th N Block, Rajajinagar, Bangalore 560010",
+        "image":"https://images1-fabric.practo.com/558bfa00744271e24723cc49a1678617aa6a85beaa4e4.jpg"
+      },
+      {
+        "name": "RAGAVS DIAGNOSTIC & RESEARCH CENTRE",
+        "address": "#10/804-1, Patalamma Temple Road (Anebande Road), 3rd Block, Jayanagar, Bangalore - 560 011",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/80/080p5910780/catalogue/ragavs-diagnostic-and-research-centre-pvt-ltd-jayanagar-3rd-block-east-bangalore-diagnostic-centres-gy5f9tn4n3.jpg"
+      }
+    ],
+    "CT scans": [
+      {
+        "name": "Clumax Diagnostics",
+        "address": "#71, 1st main, 1st Cross, New Thippasandra, HAL 3rd Stage, Bangalore 560038",
+        "image":"https://content3.jdmagicbox.com/comp/bangalore/f9/080pxx80.xx80.180108151111.z4f9/catalogue/medall-clumax-diagnostics-jayanagar-bangalore-diagnostic-centres-nzd7ktop2p.jpg"
+      },
+      {
+        "name": "Anand Diagnostic Laboratory",
+        "address": "# 54, Bowring Tower, Bowring Hospital Road, Shivajinagar, Bangalore 560001",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/u4/080pxx80.xx80.181103101214.m6u4/catalogue/anand-diagnostic-laboratory-vayali-kaval-bangalore-diagnostic-centres-jqdyvu7lhw.jpg"
+      },
+      {
+        "name": "Anand Diagnostic Laboratory - 2(SERVICE)",
+        "address": "# 8/A-14, East End Main Road, 4th T Block, Jayanagar, Bangalore 560041",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/u4/080pxx80.xx80.181103101214.m6u4/catalogue/anand-diagnostic-laboratory-vayali-kaval-bangalore-diagnostic-centres-jqdyvu7lhw.jpg"
+      },
+      {
+        "name": "Anand Diagnostic Laboratory - 3(SERVICE)",
+        "address": "# 506, 10th Main, Vijayanagar Post Office Road, Bangalore 560040",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/u4/080pxx80.xx80.181103101214.m6u4/catalogue/anand-diagnostic-laboratory-vayali-kaval-bangalore-diagnostic-centres-jqdyvu7lhw.jpg"
+      },
+      {
+        "name": "KANVA DIAGNOSTIC SERVICES PVT LTD",
+        "address": "No.2/10, Dr. Rajkumar Road, 4th N Block, Rajajinagar, Bangalore 560010",
+        "image":"https://images1-fabric.practo.com/558bfa00744271e24723cc49a1678617aa6a85beaa4e4.jpg"
+      },
+      {
+        "name": "RAGAVS DIAGNOSTIC & RESEARCH CENTRE",
+        "address": "#10/804-1, Patalamma Temple Road (Anebande Road), 3rd Block, Jayanagar, Bangalore - 560 011",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/80/080p5910780/catalogue/ragavs-diagnostic-and-research-centre-pvt-ltd-jayanagar-3rd-block-east-bangalore-diagnostic-centres-gy5f9tn4n3.jpg"
+      }
+    ],
+    "MRI": [
+      {
+        "name": "Clumax Diagnostics",
+        "address": "#71, 1st main, 1st Cross, New Thippasandra, HAL 3rd Stage, Bangalore 560038",
+        "image":"https://content3.jdmagicbox.com/comp/bangalore/f9/080pxx80.xx80.180108151111.z4f9/catalogue/medall-clumax-diagnostics-jayanagar-bangalore-diagnostic-centres-nzd7ktop2p.jpg"
+      },
+      {
+        "name": "RAGAVS DIAGNOSTIC & RESEARCH CENTRE",
+        "address": "#10/804-1, Patalamma Temple Road (Anebande Road), 3rd Block, Jayanagar, Bangalore - 560 011",
+        "image":"https://content.jdmagicbox.com/comp/bangalore/80/080p5910780/catalogue/ragavs-diagnostic-and-research-centre-pvt-ltd-jayanagar-3rd-block-east-bangalore-diagnostic-centres-gy5f9tn4n3.jpg"
+      }
+    ]
+  }
+}
+  ]
+  
+}
