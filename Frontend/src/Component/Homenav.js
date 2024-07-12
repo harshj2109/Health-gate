@@ -27,7 +27,7 @@ export default function Homenav() {
     <div className="home-nav" data-aos="fade-in">
       <div className="home-nav-img">
         <Link to="/Home">
-          <img src="./Images/logo.png" alt="" className="home-nav-logo" />
+          <img src="./Images/Logo.png" alt="" className="home-nav-logo" />
         </Link>{" "}
       </div>
 
